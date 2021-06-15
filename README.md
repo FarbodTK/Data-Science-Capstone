@@ -18,6 +18,6 @@ How would you describe the experience of using this app?
 Does the app present a novel approach and/or is particularly well done?
 Would you hire this person for your own data science startup company?
 
-Presentation: http://rpubs.com/atvarma/413339
+Presentation: https://rpubs.com/Farbodtavakkoli/782012
 
 Word Predict App: https://farbodtavakkoli.shinyapps.io/FTK_App/
