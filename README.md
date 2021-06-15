@@ -20,4 +20,4 @@ Would you hire this person for your own data science startup company?
 
 Presentation: http://rpubs.com/atvarma/413339
 
-Word Predict App: https://atvarma.shinyapps.io/WordPredict/
+Word Predict App: https://farbodtavakkoli.shinyapps.io/FTK_App/
